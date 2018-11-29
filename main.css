@@ -45,6 +45,11 @@ h2 {
 .form-inline input[name='email'] {
   width: 80%;
 }
+
+.container img {
+  width: 100px;
+}
+
 \body {
   margin: 0;
 }
@@ -56,7 +61,6 @@ body > * {
 }
 
 #container
-
 
 #social-buttons {
   margin-top: 50px;
