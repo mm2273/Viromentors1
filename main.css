@@ -38,6 +38,10 @@ h2 {
   margin-bottom: 1.5em;
 }
 
+h3 {
+  color: grey;
+  margin-bottom: 1.5em; 
+}
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
 }
