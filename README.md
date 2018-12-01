@@ -1,3 +1,2 @@
-# Viromentors1
-Our environmental website
+# Viromentors
 Kill time - Save the Planet
