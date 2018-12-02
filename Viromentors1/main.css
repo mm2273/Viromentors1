@@ -1,22 +1,24 @@
 
-.jumbotron {
-  padding-top: 90px;
-  min-height: 600px;
-  margin-bottom: 0;
-  background-image: url('images/jump bear.png');
-  background-size: cover;
-  background-attachment: fixed;
+
+
 }
 
 .jumbotron h1 {
   font-family: 'Vast Shadow', cursive;
-  color: white;
-  margin-bottom: 1em;
+  color: black;
+  margin-bottom: 3em;
 }
 
 
 blockquote {
   border-left: 0;
+}
+
+
+}
+
+#buzz {
+  background-color: #FEFEFE
 }
 
 #mission {
@@ -32,7 +34,7 @@ blockquote {
   color: white;
 }
 .jumbotron img {
-  margin-top: 50px;
+  margin-top: 100px;
 }
 h2 {
   margin-bottom: 1.5em;
@@ -40,26 +42,23 @@ h2 {
 
 h3 {
   color: grey;
-  margin-bottom: 1.5em; 
+  margin-bottom: 1.5em;
 }
 .navbar-inverse {
-  background-color: rgba(32, 35, 41,0.8);
+  background-color: black;
+  opacity: 0.3;
+
+
+
 }
 
-.form-inline input[name='email'] {
-  width: 80%;
-}
-\body {
-  margin: 0;
-}
 
 body > * {
-  padding: 10px;
+  padding: 20px;
   font-size: 20px;
-  border: 20px solid rgba(0,0,0,0.5);
+  border: 10px solid black;
 }
 
-#container
 
 
 #social-buttons {
