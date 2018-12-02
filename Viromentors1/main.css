@@ -36,11 +36,12 @@ blockquote {
 }
 h2 {
   margin-bottom: 1.5em;
+  color: grey;
 }
 
 h3 {
   color: grey;
-  margin-bottom: 1.5em; 
+  margin-bottom: 1.5em;
 }
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
@@ -52,7 +53,9 @@ h3 {
 
 .container img {
   width: 100px;
+  padding-bottom: 40px;
 }
+
 
 \body {
   margin: 0;
